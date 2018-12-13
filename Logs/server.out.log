@@ -1,0 +1,70 @@
+[4164216] Using port 4461
+Server waiting for client
+Connected player with UUID Blue-OGAI
+Assigned index 1
+Server waiting for client
+Connected player with UUID Green-OGAI
+Assigned index 2
+Server waiting for client
+Connected player with UUID Purple-OGAI
+Assigned index 3
+Server waiting for client
+Connected player with UUID Red
+Assigned index 0
+[4167621] Processing the map...
+[4167800] Initializing controllers...
+[4167804] Initializing the game...
+[0] Red (Comm open) - sending GET_READY...
+[0] Red (Comm open) - Ready!
+[1] Blue-OGAI (Comm open) - sending GET_READY...
+[1] Blue-OGAI (Comm open) - Ready!
+[2] Green-OGAI (Comm open) - sending GET_READY...
+[2] Green-OGAI (Comm open) - Ready!
+[3] Purple-OGAI (Comm open) - sending GET_READY...
+[3] Purple-OGAI (Comm open) - Ready!
+[4169274] Turn number: 0
+[4169275] ----------------------------------------------------
+[4170040] Turn number: 1
+[4170041] ----------------------------------------------------
+[4170760] Turn number: 2
+[4170760] ----------------------------------------------------
+[4171456] Turn number: 3
+[4171457] ----------------------------------------------------
+[4172129] Turn number: 4
+[4172130] ----------------------------------------------------
+[4172834] Turn number: 5
+[4172835] ----------------------------------------------------
+[4173438] Blue-OGAI Acquired Territory, now at  (27, 4)
+[4173438] Green-OGAI Acquired Territory, now at  (27, 25)
+[4173439] Purple-OGAI Acquired Territory, now at  (4, 25)
+[4173589] Turn number: 6
+[4173589] ----------------------------------------------------
+[4174419] Turn number: 7
+[4174419] ----------------------------------------------------
+[4175185] Turn number: 8
+[4175185] ----------------------------------------------------
+[4175946] Turn number: 9
+[4175946] ----------------------------------------------------
+[4176748] Turn number: 10
+[4176748] ----------------------------------------------------
+[4177615] Turn number: 11
+[4177615] ----------------------------------------------------
+[4178216] Blue-OGAI Acquired Territory, now at  (25, 4)
+[4178361] Turn number: 12
+[4178361] ----------------------------------------------------
+[4178963] Green-OGAI Acquired Territory, now at  (26, 23)
+[4178963] Purple-OGAI Acquired Territory, now at  (3, 23)
+[4179188] Turn number: 13
+[4179188] ----------------------------------------------------
+[4179791] Red Acquired Territory, now at  (4, 4)
+[4179889] Turn number: 14
+[4179889] ----------------------------------------------------
+[4180656] Turn number: 15
+[4180657] ----------------------------------------------------
+[4181353] Turn number: 16
+[4181353] ----------------------------------------------------
+[4182102] Turn number: 17
+[4182102] ----------------------------------------------------
+[4182704] Blue-OGAI Acquired Territory, now at  (25, 2)
+[4182911] Turn number: 18
+[4182911] ----------------------------------------------------
